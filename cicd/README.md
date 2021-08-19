@@ -2,7 +2,7 @@
 
 A Node.js package that checks if a given string is null or empty.
 
-[![Node CI](https://github.com/sagar-aryal/CI-and-AWS/actions/workflows/main.yml/badge.svg)](https://github.com/sagar-aryal/CI-and-AWS/actions/workflows/main.yml)
+[![newCI](https://github.com/sagar-aryal/CI-and-AWS/actions/workflows/main.yml/badge.svg)](https://github.com/sagar-aryal/CI-and-AWS/actions/workflows/main.yml)
 
 ## Usage
 
