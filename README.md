@@ -1,4 +1,4 @@
-# CI-and-AWS
+# CI_AND_AWS
 
 ## Description
 
