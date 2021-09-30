@@ -18,5 +18,6 @@ $jenkins_home/secrets/initialAdminPassword
 
 - The default username of jenkins is admin.
 - Run `localhost:8080` in your browser and login with default username and password to work with jenkins.
-- Install suggested plugins.
+- Install suggested plugins at the beginning but different plugins are needed depending upon application and version control used.
+- Create first admin user.
 - Jenkins Dashboard appears.
