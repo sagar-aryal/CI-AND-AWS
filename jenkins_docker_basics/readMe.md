@@ -1,0 +1,22 @@
+# Jenkins With Docker
+
+- Go to docker hub and search for jenkins.
+- Make sure yor docker is running before installation.
+- Use the below command to install jenkins image in your docker.
+
+```
+docker run -p 8080:8080 -p 50000:50000 -v /your/home:/var/jenkins_home jenkins
+```
+
+- After installation default password is generated in CLI. Save it because you need during login process.
+- Also the default password can be found under
+
+```
+$JENKINS_HOME/secrets/initialAdminPassword
+
+```
+
+- The default username of jenkins is admin.
+- Run `localhost:8080` in your browser and login with default username and password to work with jenkins.
+- Install suggested plugins.
+- Jenkins Dashboard appears.
