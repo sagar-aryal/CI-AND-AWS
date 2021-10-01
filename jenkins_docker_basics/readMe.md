@@ -1,7 +1,7 @@
 # Jenkins With Docker
 
 - Go to docker hub and search for jenkins.
-- Make sure yor docker is running before installation.
+- Make sure your docker is running before installation.
 - Use the below command to install jenkins image in your docker.
 
 ```
